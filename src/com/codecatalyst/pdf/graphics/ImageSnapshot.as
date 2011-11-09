@@ -32,7 +32,7 @@ import mx.graphics.codec.IImageEncoder;
 import mx.graphics.codec.PNGEncoder;
 import mx.utils.Base64Encoder;
 
-[RemoteClass(alias="flex.graphics.ImageSnapshot")]
+//[RemoteClass(alias="flex.graphics.ImageSnapshot")]
 
 /**
  *  A helper class used to capture a snapshot of any Flash component 
